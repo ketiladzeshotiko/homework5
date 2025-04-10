@@ -1,0 +1,49 @@
+.container{
+    width: 1336px;
+    margin: 0 auto;
+    background-color: blueviolet;
+}
+.container-block{
+    background-color: chartreuse;
+    text-align: center;
+    width: 760px;
+    margin: 0 auto;
+}
+h4{
+    margin-top: 80px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    color: #282828;
+    
+}
+h3{
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 62px;
+    color: #282828;
+    margin-top: 4px;
+}
+p{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    color: #5F6980;
+    margin-top: 16px;
+}
+.box{
+    width: 310px;
+    height: 430px;
+    background-color: cadetblue;
+    border: 2px solid red;
+}
+.sectiondiv{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 908px;
+    align-content: space-between;
+}
